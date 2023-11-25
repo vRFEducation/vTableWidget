@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>vTableIcon.png</file>
+    </qresource>
+</RCC>
